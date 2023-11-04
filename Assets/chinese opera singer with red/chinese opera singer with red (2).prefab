@@ -1,0 +1,62 @@
+%YAML 1.1
+--- !Prefab &1
+name: ""
+guid: {a: 5699853955831585239, b: 1066300656029312896}
+entities:
+  - __class: Entity
+    name: chinese opera singer with red (2)
+    guid: {a: 5419847490670287028, b: 2752626307526657426}
+    selfvisible: true
+    components:
+      - {localId: 2}
+      - __class: MeshRenderer
+        name: ""
+        guid: {a: 5246854678764756450, b: 6160693083119484587}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: 00000000-0000-0000-0000-000000000138--00000000-0000-0000-0000-000000000138.material}
+        sortingOrder: 0
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        mesh: {localId: 1, path: 00000000-0000-0000-0000-0000000000e6}
+        castShadow: false
+      - __class: EffectFaceMakeupFaceU
+        name: ""
+        guid: {a: 5633329610330610541, b: 1090255000955045001}
+        enabled: true
+        type:
+          __class: EffectFaceMakeupType
+          value: FACEU_MASK
+        dynamicRenderChain: false
+        faceIds: [0, 1, 2, 3, 4]
+        facemakeupEntityName: chinese opera singer with red (2)
+        zPosition: 0
+        triggerLua: true
+        version: 1
+        sdkType: 2
+        useVideoTexture: false
+        useSegment: false
+        skipZeroOpacity: false
+        componentVersion: 3
+        maleOpacity: 1
+        femaleOpacity: 1
+        xoffset: 1
+        yoffset: 1
+    layer: 0
+standaloneResources:
+  __class: Map
+--- !Transform &2
+name: ""
+guid: {a: 5442374297602380001, b: 424538005825572501}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+mobility:
+  __class: Mobility
+  value: Dynamic

@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "16bff02a-0239-80a9-dc1e-2d4d33ee51b4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "chinese opera singer with red (3)",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetStudioData": {
+      "id": "202311040217436598493D3D406E7BA170_16bff02a-0239-80a9-dc1e-2d4d33ee51b4",
+      "generatorType": "Face Mask",
+      "stylePreset": ""
+    },
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": false
+  }
+]

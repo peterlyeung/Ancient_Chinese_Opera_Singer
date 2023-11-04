@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "dd5bf85b-0001-8e50-2ecf-d9be22c20135",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "chinese opera singer with red",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

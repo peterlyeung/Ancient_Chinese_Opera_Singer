@@ -1,0 +1,102 @@
+[
+  {
+    "guid": {
+      "a": "f65adcc2-1739-66b7-8eea-718747999c92",
+      "b": ""
+    },
+    "extraType": "ResItemPrefab",
+    "name": "chinese opera singer with red",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Prefab",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "data": [
+      {
+        "guid": {
+          "a": "5f7a1c5a-bdc1-7d85-a3dd-e9a778ed7679",
+          "b": ""
+        },
+        "objGuid": "Guid(4777968423267409767, 15085061080539165089)",
+        "extraType": "Entity",
+        "name": "chinese opera singer with red",
+        "rttiType": "Entity",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "type": "none",
+        "createdEffectNodeKey": ""
+      },
+      {
+        "guid": {
+          "a": "d5cac29a-ea69-5784-f505-94948ecac543",
+          "b": ""
+        },
+        "objGuid": "Guid(5634637756727710110, 13660647429472387508)",
+        "extraType": "Transform",
+        "name": "Transform",
+        "rttiType": "Transform",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": false,
+        "editable": true,
+        "eulerAngle": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "guid": {
+          "a": "e293b05c-52e8-5ba8-5b36-698d7557ed49",
+          "b": ""
+        },
+        "objGuid": "Guid(4718625318637242783, 5498585346290801595)",
+        "extraType": "MeshRenderer",
+        "name": "MeshRenderer",
+        "rttiType": "MeshRenderer",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": false,
+        "editable": true,
+        "visualization": false
+      },
+      {
+        "guid": {
+          "a": "d56a9e36-2b26-90e2-1384-58d5bb78538c",
+          "b": ""
+        },
+        "objGuid": "Guid(5493368231238864603, 6375349273419605692)",
+        "extraType": "FaceMaskTT",
+        "name": "Face Mask",
+        "rttiType": "EffectFaceMakeupFaceU",
+        "version": "0.1.0",
+        "isVisibleInInspector": true,
+        "hideInPanel": false,
+        "expanded": true,
+        "editable": true,
+        "alphaNOPM": true,
+        "regionType": 0,
+        "makeupTexture": "03ff340f-4495-b052-0aa5-57cd836367f9",
+        "intensity": 0.5,
+        "blendMode": 1,
+        "opacityEnable": true,
+        "opacityTexture": "00000000-0000-0000-0000-0000000000ed",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "maskTexture": "00000000-0000-0000-0000-00000000001e",
+        "opacityMaskTexture": "00000000-0000-0000-0000-00000000001e"
+      }
+    ],
+    "effectNodeType": 3,
+    "dependencyData": []
+  }
+]
